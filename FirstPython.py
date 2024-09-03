@@ -13,4 +13,4 @@ nota2 = 9
 # Calculando a média
 media = (nota1 + nota2) / 2
 # Imprimindo o resultado
-print("A media:", media)
+print("Nota:", media)
