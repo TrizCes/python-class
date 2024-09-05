@@ -14,3 +14,9 @@ nota2 = 9
 media = (nota1 + nota2) / 2
 # Imprimindo o resultado
 print("Nota:", media)
+
+
+result = 2 + 3 - 4 ** 2 + 5 / 2 - 5 // 2
+print(result)
+
+
