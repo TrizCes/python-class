@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>afbf3015-b74a-4c2e-9d37-9db9598508e3</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>calcula_raiz\calcula_raiz.py</StartupFile>
+    <StartupFile>torre de hanoi\torre_hanoi.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -25,9 +25,13 @@
     <Compile Include="primeiro_programa\primeiro_programa.py" />
     <Compile Include="study\conversao.py" />
     <Compile Include="study\FirstPython.py" />
+    <Compile Include="torre de hanoi\torre_hanoi.py" />
+    <Compile Include="validacpf\valida_cpf.py" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="calcula_raiz\" />
+    <Folder Include="torre de hanoi\" />
+    <Folder Include="validacpf\" />
     <Folder Include="study\" />
     <Folder Include="primeiro_programa\" />
   </ItemGroup>
