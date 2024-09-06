@@ -4,7 +4,7 @@
     <SchemaVersion>2.0</SchemaVersion>
     <ProjectGuid>afbf3015-b74a-4c2e-9d37-9db9598508e3</ProjectGuid>
     <ProjectHome>.</ProjectHome>
-    <StartupFile>primeiro_programa\primeiro_programa.py</StartupFile>
+    <StartupFile>calcula_raiz\calcula_raiz.py</StartupFile>
     <SearchPath>
     </SearchPath>
     <WorkingDirectory>.</WorkingDirectory>
@@ -21,11 +21,13 @@
     <EnableUnmanagedDebugging>false</EnableUnmanagedDebugging>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="calcula_raiz\calcula_raiz.py" />
     <Compile Include="primeiro_programa\primeiro_programa.py" />
     <Compile Include="study\conversao.py" />
     <Compile Include="study\FirstPython.py" />
   </ItemGroup>
   <ItemGroup>
+    <Folder Include="calcula_raiz\" />
     <Folder Include="study\" />
     <Folder Include="primeiro_programa\" />
   </ItemGroup>
